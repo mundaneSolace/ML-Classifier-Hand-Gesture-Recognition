@@ -17,4 +17,4 @@ ML Classifier leverages deep learning to recognize and classify hand gestures, e
 1. Clone the repository:
 
 ```bash
-git clone [repository_URL]
+git clone [https://github.com/mundaneSolace/ML-Classifier-Hand-Gesture-Recognition.git]
